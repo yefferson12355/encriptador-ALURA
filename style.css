@@ -1,0 +1,24 @@
+.texto-imformativo{
+    Width:336px;
+    Height:122px;
+    border: red;
+    background-color: red;
+}
+.texto-imformativo h1{ 
+    
+    padding: 58px;
+}
+.encriptar{
+    background: #0A3871;
+    color: white;
+    width: 328px;
+    height:67px;
+    padding: 24px 0px 0px 0px;
+    border-radius: 24px 0px 0px 0px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.36px;
+    text-align: center;
+
+}
